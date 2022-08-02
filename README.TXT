@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Projeto de uma calculadora simples que possui funcionalidades como: calcular potências, fatorial, divisão, multiplicação e etc.
+Projeto realizado para disciplina de Programação Orientada à Objetos, do curso de Bacharelado em Sistemas de Informação da Universadade Federal do Rio Grande Norte.
